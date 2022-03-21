@@ -38,7 +38,7 @@ let { conn, text } = data
 *Noted :*
 *Kode pin Kamu, Adalah Kode Saat Kamu Login Dalam Permainan Nanti,
 Jadi Jangan Sampai Hilang Saya Sarankan Anda Menyalinnya Kedalam Catatan Anda/Kasih Tanda Bintang 🌟 Pesan Ini, Atau Ketik ${userbot.prefix}cekpin*
-「 RIXLE-BOT 」*
+「 RAGIL-BOT 」*
 `
 m.reply(teks)
 }
